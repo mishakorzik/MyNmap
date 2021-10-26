@@ -14,7 +14,7 @@ import requests
 import subprocess as subp
 
 import time
-import os
+import sys
 
 row = []
 info = ''

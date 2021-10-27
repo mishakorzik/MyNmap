@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MyNmap/main/lib/20211027_214918.png"/>
+<img width="99.9%" src=""/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/Email-Spamer"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkred?style=for-the-badge&logo="></a>

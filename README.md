@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MyNmap/main/tmp/20211104_193001.png"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MyNmap/main/tmp/IMG_20211104_193405.png"/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/MyNmap"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkred?style=for-the-badge&logo="></a>

@@ -1,11 +1,11 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/MyNmap/main/tmp/IMG_20211104_193405.png"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/MyNmap"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkred?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/MyNmap/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-darkred?style=for-the-badge&logo=gnu"></a>
-<a href=""><img title="Python" src="https://img.shields.io/badge/Python-1.X-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik/MyNmap"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkblue?style=for-the-badge&logo="></a>
+<a href="https://github.com/mishakorzik/MyNmap/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-darkblue?style=for-the-badge&logo=gnu"></a>
+<a href=""><img title="Python" src="https://img.shields.io/badge/Python-1.X-blue?style=for-the-badge&logo=python"></a>
+<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 

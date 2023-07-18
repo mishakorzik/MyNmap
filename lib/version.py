@@ -19,7 +19,7 @@ import sys
 row = []
 info = ''
 result = ''
-systemR = '1.1.0'
+systemR = '1.1.2'
 
 def sys_check():
 	print(G + '[>]' + C + ' Checking for system configurations....', end='')

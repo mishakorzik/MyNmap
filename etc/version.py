@@ -40,8 +40,7 @@ def sys_check():
 				time.sleep(3)
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
-			print(R + '[-] ' + C + 'The system failed to start!')
-			print(R + '[-] ' + C + 'Error code: 401 the server cannot boot')
+			print(R + '[-] ' + C + 'Failed to check version')
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Critical Error code: 105 Maybe you dont have internet - Exception : ' + W + str(e))
 
